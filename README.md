@@ -1,7 +1,7 @@
 ![Programmer](https://media-exp1.licdn.com/dms/image/C4D16AQGnesqdtYCqTg/profile-displaybackgroundimage-shrink_200_800/0/1654625779121?e=1668038400&v=beta&t=jIzRD9e8bqTgadoPw1unvnFFg63I-VcH0ESK-UAzh74)
 
 # Hi there 👋, I'm Oishi
-### Programmer
+## Programmer
 
 I am looking for a position that will provide me with new challenges and opportunities for skill development in order to advance my knowledge and reward in the workplace.
 
