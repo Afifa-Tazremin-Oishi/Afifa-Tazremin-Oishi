@@ -24,6 +24,6 @@ Skills:  REACT / JS / HTML / CSS / Bootstrap / Tailwind/ JavaScript / React JS /
 
 ![GitHub metrics](https://metrics.lecoq.io/Afifa Tazremin Oishi)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Afifa Tazremin Oishi)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AfifaTazreminOishi)  
 
 ![Profile views](https://gpvc.arturio.dev/Afifa Tazremin Oishi)  
