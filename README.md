@@ -14,8 +14,6 @@ Skills:  REACT / JS / HTML / CSS / Bootstrap / Tailwind/ JavaScript / React JS /
 - 📫 How to reach me: afifatazreminoishi@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Afifa Tazremin Oishi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Afifa Oishi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Afifa Tazremin /)  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Afifa Tazremin Oishi)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afifa Tazremin Oishi)](https://github.com/anuraghazra/github-readme-stats)
